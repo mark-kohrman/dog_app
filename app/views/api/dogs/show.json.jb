@@ -1,0 +1,7 @@
+{
+  id: @dog.id,
+  breed: @dog.breed,
+  color: @dog.color,
+  age: @dog.age,
+  price: @dog.price
+}
